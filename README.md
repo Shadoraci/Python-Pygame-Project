@@ -1,4 +1,5 @@
 Credits to @Russ123 for the assistance in making this game. @DoodleSnook for making the assets
+Background music is royalty free from Bensound.com 
 
 This is a tiny fun project to see how Pygame works in Python. I had a silly idea of Yordles going through jungle within League of Legends.
 
